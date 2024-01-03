@@ -98,7 +98,7 @@ print("""
 """)
 
 
-file_path = "sein.txt"  # Replace with the path to your text file
+file_path = "TextModel.txt"  # Replace with the path to your text file
 chunk_size = 10000  # Define your chunk size here
 user_phrase = input("Enter a phrase to find occurrences and predict the next words: ")
 
